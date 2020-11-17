@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![stats](https://github-readme-stats.vercel.app/api?username=yanqd0&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanqd0&layout=compact)
 
 <!--
 **yanqd0/yanqd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
